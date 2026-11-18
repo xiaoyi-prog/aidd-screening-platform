@@ -1,0 +1,16 @@
+The files belonging to this database system will be owned by user "15821".
+This user must also own the server process.
+
+The database cluster will be initialized with locale "C".
+The default text search configuration will be set to "english".
+
+Data page checksums are disabled.
+
+initdb: error: directory "/c/Users/15821/WorkBuddy/2026-11-14-16-53-40/db/pgdata" exists but is not empty
+initdb: hint: If you want to create a new database system, either remove or empty the directory "/c/Users/15821/WorkBuddy/2026-11-14-16-53-40/db/pgdata" or run initdb with an argument other than "/c/Users/15821/WorkBuddy/2026-11-14-16-53-40/db/pgdata".
+pg_ctl: directory "/c/Users/15821/.workbuddy/pgdata/aidd" does not exist
+pg_ctl: another server might be running; trying to start server anyway
+waiting for server to start....另一个程序正在使用此文件，进程无法访问。
+ stopped waiting
+pg_ctl: could not start server
+Examine the log output.

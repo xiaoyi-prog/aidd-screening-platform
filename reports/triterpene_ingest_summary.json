@@ -1,0 +1,345 @@
+{
+  "batch_pubchem": "46d6b6a2-6f18-4d6a-bff5-13fcef042b6c",
+  "batch_chembl": "1eb1151c-38e3-4d3f-8ad8-a685862bd807",
+  "seed_resolved": {
+    "squalene": 638072,
+    "squalane": 8089,
+    "2,3-oxidosqualene": 5366020,
+    "botryococcene": 10885141
+  },
+  "seed_notes": [
+    [
+      "squalene",
+      638072
+    ],
+    [
+      "squalane",
+      8089
+    ],
+    [
+      "2,3-oxidosqualene",
+      5366020
+    ],
+    [
+      "botryococcene",
+      10885141
+    ],
+    [
+      "dehydrosqualene",
+      "ERROR GET failed after 3 tries: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dehydrosqualene/cids/JSON -> 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/dehydrosqualene/cids/JSON"
+    ]
+  ],
+  "similarity": {
+    "squalene_ref": {
+      "ref_cid": 638072,
+      "n": 200
+    },
+    "squalane_ref": {
+      "ref_cid": 656,
+      "n": 200
+    }
+  },
+  "ods_rows": {
+    "compound": 37,
+    "synonym": 285,
+    "chembl_molecule": 185
+  },
+  "compounds": [
+    {
+      "cid": 1105,
+      "formula": "C30H50",
+      "mw": 410.7,
+      "xlogp": 11.6,
+      "inchikey": "YYGNTYWPHWGJRM-UHFFFAOYSA-N",
+      "title": "2,6,10,15,19,23-Hexamethyltetracosa-2,6,10,14,18,22-hexaene"
+    },
+    {
+      "cid": 8089,
+      "formula": "C30H62",
+      "mw": 422.8,
+      "xlogp": 14.7,
+      "inchikey": "PRAKJMSDJKAYCZ-UHFFFAOYSA-N",
+      "title": "Squalane"
+    },
+    {
+      "cid": 193910,
+      "formula": "C30H42",
+      "mw": 402.7,
+      "xlogp": 11.8,
+      "inchikey": "FPSYVUBUILNSRF-UHFFFAOYSA-N",
+      "title": "2,6,10,15,19,23-Hexamethyltetracosa-2,4,6,8,10,12,14,16,18,22-decaene"
+    },
+    {
+      "cid": 292287,
+      "formula": "C25H50",
+      "mw": 350.7,
+      "xlogp": 12.8,
+      "inchikey": "QEKKDSRVFBLJFX-UHFFFAOYSA-N",
+      "title": "8-Heptadecene, 9-octyl-"
+    },
+    {
+      "cid": 623199,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 11.6,
+      "inchikey": "NXJJBCPAGHGVJC-UHFFFAOYSA-N",
+      "title": "4,4'-Diapophytoene"
+    },
+    {
+      "cid": 638072,
+      "formula": "C30H50",
+      "mw": 410.7,
+      "xlogp": 11.6,
+      "inchikey": "YYGNTYWPHWGJRM-AAJYLUCBSA-N",
+      "title": "Squalene"
+    },
+    {
+      "cid": 5280370,
+      "formula": "C30H50",
+      "mw": 410.7,
+      "xlogp": 11.6,
+      "inchikey": "YYGNTYWPHWGJRM-YMUIKIMESA-N",
+      "title": "Squalene, analytical standard"
+    },
+    {
+      "cid": 5352455,
+      "formula": "C29H48",
+      "mw": 396.7,
+      "xlogp": 11,
+      "inchikey": "BBCQGYMUMKNTQE-BAIGTOHMSA-N",
+      "title": "10-Demethylsqualene"
+    },
+    {
+      "cid": 5366020,
+      "formula": "C30H50O",
+      "mw": 426.7,
+      "xlogp": 10.3,
+      "inchikey": "QYIMSPSDBYKPPY-BANQPHDMSA-N",
+      "title": "2,3-Oxidosqualene"
+    },
+    {
+      "cid": 5377880,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 11.6,
+      "inchikey": "NXJJBCPAGHGVJC-MAYJZIKRSA-N",
+      "title": "All-trans-4,4'-diapophytoene"
+    },
+    {
+      "cid": 6443791,
+      "formula": "C30H42",
+      "mw": 402.7,
+      "xlogp": 11.8,
+      "inchikey": "FPSYVUBUILNSRF-MQMKOTMBSA-N",
+      "title": "(4E,6E,8E,10E,12E,14E,16E,18E)-2,6,10,15,19,23-Hexamethyl-2,4,6,8,10,12,14,16,18,22-tetracosadecaene"
+    },
+    {
+      "cid": 10885141,
+      "formula": "C34H58",
+      "mw": 466.8,
+      "xlogp": 14.2,
+      "inchikey": "RRFKZRGEWFCPGV-KWNNYQEVSA-N",
+      "title": "Botryococcene"
+    },
+    {
+      "cid": 11212382,
+      "formula": "C31H50",
+      "mw": 422.7,
+      "xlogp": 12,
+      "inchikey": "YFJDHPRKGJEVKR-RLEGVFPPSA-N",
+      "title": "(3E,7E,11E,15E,19E)-3,7,11,16,20,24-hexamethylpentacosa-1,3,7,11,15,19,23-heptaene"
+    },
+    {
+      "cid": 11315692,
+      "formula": "C30H44",
+      "mw": 404.7,
+      "xlogp": 11.7,
+      "inchikey": "JJMKRPXUHIPSAW-ZOKJSSERSA-N",
+      "title": "4,4'-Diapo-zeta-carotene"
+    },
+    {
+      "cid": 11975273,
+      "formula": "C30H50",
+      "mw": 410.7,
+      "xlogp": 11.6,
+      "inchikey": "YYGNTYWPHWGJRM-FLHYQJCXSA-N",
+      "title": "(6Z,10E,14E,18E)-2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene"
+    },
+    {
+      "cid": 14019219,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 11.6,
+      "inchikey": "NXJJBCPAGHGVJC-LIKFLUFESA-N",
+      "title": "15-cis-4,4'-Diapophytoene"
+    },
+    {
+      "cid": 14544609,
+      "formula": "C28H44",
+      "mw": 380.6,
+      "xlogp": 10.2,
+      "inchikey": "KXVKTTDHPAHWSP-ONQTWPEOSA-N",
+      "title": "5,9,14,18,22-Pentamethyl-tricosa-5,9,13,17,21-pentaen-1-yne"
+    },
+    {
+      "cid": 14544610,
+      "formula": "C26H38",
+      "mw": 350.6,
+      "xlogp": 8.8,
+      "inchikey": "ZFMFZTOEMOMUMG-LQEDCYEGSA-N",
+      "title": "5,9,14,18-Tetramethyl-docosa-5,9,13,17-tetraene-1,21-diyne"
+    },
+    {
+      "cid": 14544614,
+      "formula": "C29H46",
+      "mw": 394.7,
+      "xlogp": 10.3,
+      "inchikey": "JPXBVBHEFLSWTH-LPOFEHKLSA-N",
+      "title": "6,10,15,19,23-Pentamethyl-tetracosa-1,2,6,10,14,18,22-heptaene"
+    },
+    {
+      "cid": 14544615,
+      "formula": "C28H42",
+      "mw": 378.6,
+      "xlogp": 9.1,
+      "inchikey": "WWYJLZNZMOTMDI-BQAJUIIYSA-N",
+      "title": "6,10,15,19-Tetramethyl-tetracosa-1,2,6,10,14,18,22,23-octaene"
+    },
+    {
+      "cid": 14544616,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 10.5,
+      "inchikey": "ASQQWVOLSZUIGD-CQNOQWDGSA-N",
+      "title": "(4,8,13,17,21-Pentamethyl-docosa-4,8,12,16,20-pentaenylidene)-cyclopropane"
+    },
+    {
+      "cid": 14544617,
+      "formula": "C30H46",
+      "mw": 406.7,
+      "xlogp": 9.4,
+      "inchikey": "PBHARJKELFPYNJ-DKTKHUEWSA-N",
+      "title": "[(4E,8E,12E,16E)-20-cyclopropylidene-4,8,13,17-tetramethylicosa-4,8,12,16-tetraenylidene]cyclopropane"
+    },
+    {
+      "cid": 16061258,
+      "formula": "C30H46",
+      "mw": 406.7,
+      "xlogp": 11.7,
+      "inchikey": "XJMTWNXFNQAKGS-AXODYVGMSA-N",
+      "title": "4,4'-Diapophytofluene"
+    },
+    {
+      "cid": 25202308,
+      "formula": "C30H46",
+      "mw": 406.7,
+      "xlogp": 11.7,
+      "inchikey": "XJMTWNXFNQAKGS-UHFFFAOYSA-N",
+      "title": "CID 25202308"
+    },
+    {
+      "cid": 25202379,
+      "formula": "C30H44",
+      "mw": 404.7,
+      "xlogp": 11.7,
+      "inchikey": "JJMKRPXUHIPSAW-UHFFFAOYSA-N",
+      "title": "CID 25202379"
+    },
+    {
+      "cid": 25244109,
+      "formula": "C30H50",
+      "mw": 410.7,
+      "xlogp": 11.6,
+      "inchikey": "YYGNTYWPHWGJRM-FZSSMNSJSA-N",
+      "title": "(6Z,10E,14Z,18E)-2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene"
+    },
+    {
+      "cid": 44308596,
+      "formula": "C32H50",
+      "mw": 434.7,
+      "xlogp": 12.4,
+      "inchikey": "DQGNURMUZVFKKX-IZCAQIDOSA-N",
+      "title": "3,7,11,16,20,24-Hexamethyl-hexacosa-1,3,7,11,15,19,23,25-octaene"
+    },
+    {
+      "cid": 52922084,
+      "formula": "C31H46",
+      "mw": 418.7,
+      "xlogp": 10.3,
+      "inchikey": "QBQCAYTWEQRERN-VHUCEKMMSA-N",
+      "title": "3Z,6Z,9Z,12Z,15Z,19Z,22Z,25Z,28Z-Hentriacontanonaene"
+    },
+    {
+      "cid": 101609271,
+      "formula": "C30H44",
+      "mw": 404.7,
+      "xlogp": 11.7,
+      "inchikey": "QSLXXAZXUYYJCO-IMFKHJNASA-N",
+      "title": "4,4'-Diapo-7,8,11,12-tetrahydrolycopene"
+    },
+    {
+      "cid": 102232250,
+      "formula": "C25H40",
+      "mw": 340.6,
+      "xlogp": 9.9,
+      "inchikey": "ZAENFYLULMRPFH-ITTVFDGXSA-N",
+      "title": "beta-Geranylfarnesene"
+    },
+    {
+      "cid": 102502420,
+      "formula": "C35H56",
+      "mw": 476.8,
+      "xlogp": 13.6,
+      "inchikey": "YNWDINKHLIWBQT-YDTSVZKTSA-N",
+      "title": "beta-Heptaprene"
+    },
+    {
+      "cid": 102502421,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 11.8,
+      "inchikey": "HVNMFMZGDPZXND-ICZYJQKRSA-N",
+      "title": "beta-Hexaprene"
+    },
+    {
+      "cid": 129691088,
+      "formula": "C33H56",
+      "mw": 452.8,
+      "xlogp": 12.9,
+      "inchikey": "WEMNWCWZQZDJEB-AJRKJSAFSA-N",
+      "title": "Trimethylsqualene"
+    },
+    {
+      "cid": 153280933,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 7.8,
+      "inchikey": "WSUOURBTDCUBEX-YPOQHXKCSA-N",
+      "title": "(all-Z)-1,5,9,13,17,21-hexamethyl-1,5,9,13,17,21-cyclotertracosahexaene"
+    },
+    {
+      "cid": 162897453,
+      "formula": "C30H44",
+      "mw": 404.7,
+      "xlogp": 11.7,
+      "inchikey": "QSLXXAZXUYYJCO-UHFFFAOYSA-N",
+      "title": "2,6,10,15,19,23-Hexamethyltetracosa-2,4,6,8,10,12,14,18,22-nonaene"
+    },
+    {
+      "cid": 162940857,
+      "formula": "C30H48",
+      "mw": 408.7,
+      "xlogp": 7.8,
+      "inchikey": "WSUOURBTDCUBEX-UHFFFAOYSA-N",
+      "title": "1,5,9,13,17,21-Hexamethylcyclotetracosa-1,5,9,13,17,21-hexaene"
+    },
+    {
+      "cid": 177696489,
+      "formula": "C30H50",
+      "mw": 410.7,
+      "xlogp": 11.6,
+      "inchikey": "YYGNTYWPHWGJRM-STCFCRKPSA-N",
+      "title": "(6E,14E,18E)-2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene"
+    }
+  ]
+}

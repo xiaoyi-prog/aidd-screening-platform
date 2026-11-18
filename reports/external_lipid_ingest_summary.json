@@ -1,0 +1,684 @@
+{
+  "date": "2026-11-14",
+  "batches": {
+    "CHEBI": "20eb90fc-da28-4e54-997f-2c9f33500cc8",
+    "LIPIDMAPS": "58f39a35-6820-4fbb-ae18-4319ea141581",
+    "KEGG": "bab346e0-7598-43c5-b3d5-306e1803e32c"
+  },
+  "chebi": {
+    "nodes": 33,
+    "entities": 32,
+    "hydrocarbon": 32
+  },
+  "lipidmaps": {
+    "total": 294,
+    "hydrocarbon": 21
+  },
+  "kegg": {
+    "entries": 22,
+    "with_structure": 0
+  },
+  "compounds": {
+    "chebi_hydro": [
+      {
+        "chebi_id": "CHEBI:62739",
+        "name": "4,4'-diapophytofluene",
+        "formula": "C30H46",
+        "inchikey": "XJMTWNXFNQAKGS-UHFFFAOYSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62741",
+        "name": "4,4'-diapo-ζ-carotene",
+        "formula": "C30H44",
+        "inchikey": "JJMKRPXUHIPSAW-UHFFFAOYSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62743",
+        "name": "4,4'-diaponeurosporene",
+        "formula": "C30H42",
+        "inchikey": "FPSYVUBUILNSRF-MQMKOTMBSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:36488",
+        "name": "dammarane",
+        "formula": "C30H54",
+        "inchikey": "OORMXZNMRWBSTK-LGFJJATJSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:36473",
+        "name": "gammacerane",
+        "formula": "C30H52",
+        "inchikey": "QDUDLLAGYKHBNK-QPYQYMOUSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:36482",
+        "name": "hopane",
+        "formula": "C30H52",
+        "inchikey": "ZRLNBWWGLOPJIC-PYQRSULMSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:20265",
+        "name": "lanostane",
+        "formula": "C30H54",
+        "inchikey": "ZQIOPEXWVBIZAV-ZKYCIREVSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:36485",
+        "name": "lupane",
+        "formula": "C30H52",
+        "inchikey": "NKMDIWKRKQFYPH-VIUFNMEASA-N"
+      },
+      {
+        "chebi_id": "CHEBI:36481",
+        "name": "oleanane",
+        "formula": "C30H52",
+        "inchikey": "VCNKUCWWHVTTBY-KQCVGMHHSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:36483",
+        "name": "protostane",
+        "formula": "C30H54",
+        "inchikey": "OORMXZNMRWBSTK-XJIBWFFZSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:35711",
+        "name": "ursane",
+        "formula": "C30H52",
+        "inchikey": "OOTXFYSZXCPMPG-BMYLZFHVSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:15440",
+        "name": "squalene",
+        "formula": "C30H50",
+        "inchikey": "YYGNTYWPHWGJRM-AAJYLUCBSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:37778",
+        "name": "cycloartane",
+        "formula": "C30H52",
+        "inchikey": "BSLYZLYLUUIFGZ-JRUDBKCSSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:70786",
+        "name": "C<small><sub>30</sub></small> botryococcene",
+        "formula": "C30H50",
+        "inchikey": "LRCNPQXZCZKGDI-OFGMELEWSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62447",
+        "name": "dammara-20,24-diene",
+        "formula": "C30H50",
+        "inchikey": "SEXOMBPXHYAKHY-YCJSVCQFSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:4648",
+        "name": "hop-22(29)-ene",
+        "formula": "C30H50",
+        "inchikey": "HHXYJYBYNZMZKX-PYQRSULMSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:72618",
+        "name": "taraxastane",
+        "formula": "C30H52",
+        "inchikey": "OOTXFYSZXCPMPG-DJRORNMDSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:138227",
+        "name": "β-hexaprene",
+        "formula": "C30H48",
+        "inchikey": "HVNMFMZGDPZXND-ICZYJQKRSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:71575",
+        "name": "friedelane",
+        "formula": "C30H52",
+        "inchikey": "KVSNMTUIMXZPLU-XOZXFAFYSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:73245",
+        "name": "cucurbitane",
+        "formula": "C30H54",
+        "inchikey": "ZYZJWAJOTPNVPI-ZVBSCDOUSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:132464",
+        "name": "hop-21(22)-ene",
+        "formula": "C30H50",
+        "inchikey": "CBZFLMNNXKRPHN-DRTOFSRZSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:132466",
+        "name": "hop-17(21)-ene",
+        "formula": "C30H50",
+        "inchikey": "BJFPMDGPOFJGIR-WWJAXWOYSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:73301",
+        "name": "tirucallane",
+        "formula": "C30H54",
+        "inchikey": "ZQIOPEXWVBIZAV-RSKDDJKESA-N"
+      },
+      {
+        "chebi_id": "CHEBI:192978",
+        "name": "talaropentaene",
+        "formula": "C30H48",
+        "inchikey": "VVHPNQSUMLARNW-NGCRBCODSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62736",
+        "name": "4,4'-diapophytoene",
+        "formula": "C30H48",
+        "inchikey": "NXJJBCPAGHGVJC-UHFFFAOYSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:192980",
+        "name": "macrophomene",
+        "formula": "C30H48",
+        "inchikey": "RHBWEVCRGQZVST-SGDJXXCCSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62740",
+        "name": "<i>all</i>-<i>trans</i>-4,4'-diapophytofluene",
+        "formula": "C30H46",
+        "inchikey": "XJMTWNXFNQAKGS-AXODYVGMSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62742",
+        "name": "<i>all</i>-<i>trans</i>-4,4'-diapo-ζ-carotene",
+        "formula": "C30H44",
+        "inchikey": "JJMKRPXUHIPSAW-ZOKJSSERSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:73247",
+        "name": "5α-cucurbitane",
+        "formula": "C30H54",
+        "inchikey": "ZYZJWAJOTPNVPI-AUAIAXQGSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:73249",
+        "name": "5β-cucurbitane",
+        "formula": "C30H54",
+        "inchikey": "ZYZJWAJOTPNVPI-QJMYWHNVSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62737",
+        "name": "<i>all</i>-<i>trans</i>-4,4'-diapophytoene",
+        "formula": "C30H48",
+        "inchikey": "NXJJBCPAGHGVJC-MAYJZIKRSA-N"
+      },
+      {
+        "chebi_id": "CHEBI:62738",
+        "name": "15-<i>cis</i>-4,4'-diapophytoene",
+        "formula": "C30H48",
+        "inchikey": "NXJJBCPAGHGVJC-LIKFLUFESA-N"
+      }
+    ],
+    "lipidmaps_hydro": [
+      {
+        "lm_id": "LMPR0106010005",
+        "name": "C30:6 Highly branched isoprenoid A",
+        "formula": "C30H50",
+        "inchikey": "JCWJDRJIYCBBNM-FTTJEOKKSA-N"
+      },
+      {
+        "lm_id": "LMPR0106200004",
+        "name": "(-)-5-Adianene",
+        "formula": "C30H50",
+        "inchikey": "WZDKBHGEBSMIQO-XAUJWZRVSA-N"
+      },
+      {
+        "lm_id": "LMPR0106030003",
+        "name": "Monocyclic botryococcane",
+        "formula": "C34H68",
+        "inchikey": "FQHXBUADMKQNAG-UHFFFAOYSA-N"
+      },
+      {
+        "lm_id": "LMPR0106220002",
+        "name": "(+)-Gammacerane",
+        "formula": "C30H52",
+        "inchikey": "QDUDLLAGYKHBNK-QPYQYMOUSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010006",
+        "name": "C30:6 Highly branched isoprenoid B",
+        "formula": "C30H50",
+        "inchikey": "JCWJDRJIYCBBNM-VZKDKEEGSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010008",
+        "name": "C30:5 Highly branched isoprenoid",
+        "formula": "C30H52",
+        "inchikey": "BNYPZWFLESHHNE-FTTJEOKKSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010002",
+        "name": "Squalene",
+        "formula": "C30H50",
+        "inchikey": "YYGNTYWPHWGJRM-AAJYLUCBSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010004",
+        "name": "Tetrahydrosqualene",
+        "formula": "C30H54",
+        "inchikey": "COCRTLOZHDPILP-AAJYLUCBSA-N"
+      },
+      {
+        "lm_id": "LMPR0106020003",
+        "name": "C30 Monocyclic highly branched isoprenoid",
+        "formula": "C30H60",
+        "inchikey": "CYGHPBQDCJXIPT-UHFFFAOYSA-N"
+      },
+      {
+        "lm_id": "LMPR0106030001",
+        "name": "Botryococcane",
+        "formula": "C30H62",
+        "inchikey": "BMQOPLQIXUYINH-UHFFFAOYSA-N"
+      },
+      {
+        "lm_id": "LMPR0106030004",
+        "name": "Botryococcene",
+        "formula": "C34H58",
+        "inchikey": "RRFKZRGEWFCPGV-KWNNYQEVSA-N"
+      },
+      {
+        "lm_id": "LMPR0106030002",
+        "name": "Penta-unsaturated monocyclic botrycoccane",
+        "formula": "C34H58",
+        "inchikey": "IBJRNORNAWSUOG-LSDHQDQOSA-N"
+      },
+      {
+        "lm_id": "LMPR0106020002",
+        "name": "C30:4 Monocyclic highly branched isoprenoid",
+        "formula": "C30H52",
+        "inchikey": "PLCJWBGFRGRJFS-YZSQISJMSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010009",
+        "name": "C30 Highly branched isoprenoid",
+        "formula": "C30H62",
+        "inchikey": "ZYUQNRLZGGWDML-UHFFFAOYSA-N"
+      },
+      {
+        "lm_id": "LMPR0106080022",
+        "name": "dammara-20,24-diene",
+        "formula": "C30H50",
+        "inchikey": "SEXOMBPXHYAKHY-YCJSVCQFSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010007",
+        "name": "C30:5 Monocyclic highly branched isoprenoid B",
+        "formula": "C30H52",
+        "inchikey": "BNYPZWFLESHHNE-VZKDKEEGSA-N"
+      },
+      {
+        "lm_id": "LMPR0106230002",
+        "name": "(-)-14-Serratene",
+        "formula": "C30H50",
+        "inchikey": "NIALLGCBSYYMNQ-RYUGGBRLSA-N"
+      },
+      {
+        "lm_id": "LMPR0106010044",
+        "name": "15-cis-4,4'-Diapophytoene",
+        "formula": "C30H48",
+        "inchikey": "NXJJBCPAGHGVJC-LIKFLUFESA-N"
+      },
+      {
+        "lm_id": "LMPR0106010045",
+        "name": "4,4'-Diapo-7,8,11,12-tetrahydrolycopene",
+        "formula": "C30H44",
+        "inchikey": "QSLXXAZXUYYJCO-IMFKHJNASA-N"
+      },
+      {
+        "lm_id": "LMPR0106020001",
+        "name": "C30:5 Monocyclic highly branched isoprenoid A",
+        "formula": "C30H50",
+        "inchikey": "ZJVXDMICLAHVAH-YZSQISJMSA-N"
+      },
+      {
+        "lm_id": "LMPR0106210004",
+        "name": "Arborane",
+        "formula": "C30H52",
+        "inchikey": "UFBGZWVLKQSSJS-DEJKXBRXSA-N"
+      }
+    ],
+    "kegg": [
+      {
+        "entry": "C00751",
+        "name": "Squalene; Spinacene; Supraene",
+        "formula": "C30H50",
+        "dblinks": {
+          "CAS": [
+            "111-02-4"
+          ],
+          "PubChem": [
+            "4013"
+          ],
+          "ChEBI": [
+            "15440"
+          ],
+          "LIPIDMAPS": [
+            "LMPR0106010002"
+          ],
+          "KNApSAcK": [
+            "C00003755"
+          ],
+          "CCD": [
+            "SQL"
+          ],
+          "GLOBAL": [
+            "J5.103I"
+          ]
+        }
+      },
+      {
+        "entry": "C01054",
+        "name": "(S)-2,3-Epoxysqualene; Squalene 2,3-epoxide; Squalene 2,3-oxide; (S)-Squalene-2,3-epoxide; 2,3-Oxidosqualene; (3S)-2,3-Epoxy-2,3-dihydrosqualene",
+        "formula": "C30H50O",
+        "dblinks": {
+          "PubChem": [
+            "4295"
+          ],
+          "ChEBI": [
+            "15441"
+          ],
+          "LIPIDMAPS": [
+            "LMPR0106010010"
+          ],
+          "KNApSAcK": [
+            "C00007282"
+          ],
+          "CCD": [
+            "2TX"
+          ],
+          "GLOBAL": [
+            "J39.259F"
+          ]
+        }
+      },
+      {
+        "entry": "C03428",
+        "name": "Presqualene diphosphate",
+        "formula": "C30H52O7P2",
+        "dblinks": {
+          "PubChem": [
+            "6255"
+          ],
+          "ChEBI": [
+            "15442"
+          ],
+          "LIPIDMAPS": [
+            "LMPR0106010003"
+          ],
+          "CCD": [
+            "PS7"
+          ],
+          "GLOBAL": [
+            "J816.761C"
+          ]
+        }
+      },
+      {
+        "entry": "C06083",
+        "name": "Tetrahymanol",
+        "formula": "C30H52O",
+        "dblinks": {
+          "CAS": [
+            "2130-17-8"
+          ],
+          "PubChem": [
+            "8349"
+          ],
+          "ChEBI": [
+            "9493"
+          ],
+          "LIPIDMAPS": [
+            "LMPR0106210001"
+          ],
+          "GLOBAL": [
+            "J14.985C"
+          ]
+        }
+      },
+      {
+        "entry": "C06085",
+        "name": "Triterpenoid",
+        "formula": null,
+        "dblinks": {
+          "PubChem": [
+            "8351"
+          ],
+          "ChEBI": [
+            "36615"
+          ]
+        }
+      },
+      {
+        "entry": "C08627",
+        "name": "Hopane-29-acetate",
+        "formula": "C32H54O2",
+        "dblinks": {
+          "CAS": [
+            "58193-25-2"
+          ],
+          "PubChem": [
+            "10820"
+          ],
+          "ChEBI": [
+            "5760"
+          ],
+          "LIPIDMAPS": [
+            "LMPR04000003"
+          ],
+          "KNApSAcK": [
+            "C00003748"
+          ],
+          "GLOBAL": [
+            "J294.466I"
+          ]
+        }
+      },
+      {
+        "entry": "C16144",
+        "name": "4,4'-Diapophytoene; Dehydrosqualene; 15-cis-4,4'-Diapophytoene",
+        "formula": "C30H48",
+        "dblinks": {
+          "CAS": [
+            "53872-54-1"
+          ],
+          "PubChem": [
+            "47205454"
+          ],
+          "ChEBI": [
+            "62738"
+          ],
+          "LIPIDMAPS": [
+            "LMPR0106010044"
+          ],
+          "KNApSAcK": [
+            "C00000915"
+          ],
+          "GLOBAL": [
+            "J419.919G"
+          ]
+        }
+      },
+      {
+        "entry": "C20411",
+        "name": "3-Methyl-1,2-didehydro-2,3-dihydrosqualene",
+        "formula": "C31H52",
+        "dblinks": {
+          "PubChem": [
+            "163312148"
+          ]
+        }
+      },
+      {
+        "entry": "C20412",
+        "name": "3,22-Dimethyl-1,2,23,24-tetradehydro-2,3,22,23-tetrahydrosqualene",
+        "formula": "C32H54",
+        "dblinks": {
+          "PubChem": [
+            "163312149"
+          ]
+        }
+      },
+      {
+        "entry": "C20432",
+        "name": "C30 Botryococcene",
+        "formula": "C30H50",
+        "dblinks": {
+          "PubChem": [
+            "163312169"
+          ]
+        }
+      },
+      {
+        "entry": "C20433",
+        "name": "3-Methyl-1,2-didehydro-2,3-dihydrobotryococcene; Showacene",
+        "formula": "C31H52",
+        "dblinks": {
+          "PubChem": [
+            "163312170"
+          ]
+        }
+      },
+      {
+        "entry": "C20434",
+        "name": "20-Methyl-21,22-didehydro-20,21-dihydrobotryococcene; Isoshowacene",
+        "formula": "C31H52",
+        "dblinks": {
+          "PubChem": [
+            "163312171"
+          ]
+        }
+      },
+      {
+        "entry": "C20435",
+        "name": "3,20-Dimethyl-1,2,21,22-tetradehydro-2,3,20,21-tetrahydrobotryococcene",
+        "formula": "C32H54",
+        "dblinks": {
+          "PubChem": [
+            "163312172"
+          ]
+        }
+      },
+      {
+        "entry": "C21116",
+        "name": "Hydroxysqualene; 12-Hydroxysqualene",
+        "formula": "C30H50O",
+        "dblinks": {
+          "PubChem": [
+            "312642085"
+          ]
+        }
+      },
+      {
+        "entry": "C21117",
+        "name": "Adenosylhopane",
+        "formula": "C40H63N5O3",
+        "dblinks": {
+          "PubChem": [
+            "312642086"
+          ],
+          "LIPIDMAPS": [
+            "LMPR04000012"
+          ]
+        }
+      },
+      {
+        "entry": "C21118",
+        "name": "Ribosylhopane",
+        "formula": "C35H60O4",
+        "dblinks": {
+          "PubChem": [
+            "312642087"
+          ],
+          "LIPIDMAPS": [
+            "LMPR04000028"
+          ]
+        }
+      },
+      {
+        "entry": "C21119",
+        "name": "Bacteriohopanetetrol; Tetrahydroxybacteriohopane; Bacteriohopane-32,33,34,35-tetrol",
+        "formula": "C35H62O4",
+        "dblinks": {
+          "PubChem": [
+            "312642088"
+          ],
+          "ChEBI": [
+            "132468"
+          ],
+          "LIPIDMAPS": [
+            "LMPR04000004"
+          ]
+        }
+      },
+      {
+        "entry": "C21120",
+        "name": "Bacteriohopanetetrol-acetylglucosamine",
+        "formula": "C43H75NO9",
+        "dblinks": {
+          "PubChem": [
+            "312642089"
+          ]
+        }
+      },
+      {
+        "entry": "C21121",
+        "name": "Bacteriohopanetetrol-glucosamine; Tetrahydroxybacteriohopane-glucosamine",
+        "formula": "C41H73NO8",
+        "dblinks": {
+          "PubChem": [
+            "312642090"
+          ],
+          "ChEBI": [
+            "132143"
+          ],
+          "LIPIDMAPS": [
+            "LMPR04000018"
+          ]
+        }
+      },
+      {
+        "entry": "C21122",
+        "name": "Bacteriohopanetetrol cyclitol ether; Tetrahydroxybacteriohopane cyclitol ether",
+        "formula": "C41H73NO8",
+        "dblinks": {
+          "PubChem": [
+            "312642091"
+          ],
+          "ChEBI": [
+            "132144"
+          ]
+        }
+      },
+      {
+        "entry": "C21123",
+        "name": "Aminobacteriohopanetriol",
+        "formula": "C35H63NO3",
+        "dblinks": {
+          "PubChem": [
+            "312642092"
+          ],
+          "LIPIDMAPS": [
+            "LMPR04000005"
+          ]
+        }
+      },
+      {
+        "entry": "C21732",
+        "name": "(3S,22S)-2,3:22,23-Diepoxy-2,3,22,23-tetrahydrosqualene; 2,3,22,23-Dioxidosqualene",
+        "formula": "C30H50O2",
+        "dblinks": {
+          "PubChem": [
+            "350078309"
+          ],
+          "LIPIDMAPS": [
+            "LMPR0106010038"
+          ]
+        }
+      }
+    ]
+  }
+}
